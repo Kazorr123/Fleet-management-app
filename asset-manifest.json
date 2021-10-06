@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fleet-management-app/static/css/main.75e713a3.chunk.css",
+    "main.js": "/Fleet-management-app/static/js/main.7bf56feb.chunk.js",
+    "main.js.map": "/Fleet-management-app/static/js/main.7bf56feb.chunk.js.map",
+    "runtime-main.js": "/Fleet-management-app/static/js/runtime-main.190aebbe.js",
+    "runtime-main.js.map": "/Fleet-management-app/static/js/runtime-main.190aebbe.js.map",
+    "static/js/2.1afed947.chunk.js": "/Fleet-management-app/static/js/2.1afed947.chunk.js",
+    "static/js/2.1afed947.chunk.js.map": "/Fleet-management-app/static/js/2.1afed947.chunk.js.map",
+    "static/js/3.377a5856.chunk.js": "/Fleet-management-app/static/js/3.377a5856.chunk.js",
+    "static/js/3.377a5856.chunk.js.map": "/Fleet-management-app/static/js/3.377a5856.chunk.js.map",
+    "index.html": "/Fleet-management-app/index.html",
+    "static/css/main.75e713a3.chunk.css.map": "/Fleet-management-app/static/css/main.75e713a3.chunk.css.map",
+    "static/js/2.1afed947.chunk.js.LICENSE.txt": "/Fleet-management-app/static/js/2.1afed947.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.190aebbe.js",
+    "static/js/2.1afed947.chunk.js",
+    "static/css/main.75e713a3.chunk.css",
+    "static/js/main.7bf56feb.chunk.js"
+  ]
+}
